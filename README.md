@@ -5,3 +5,5 @@ https://therecord.media/more-than-10000-redline-malware-attacks-in-april-targeti
 https://ke-la.com/information-stealers-a-new-landscape/?utm_source=substack&utm_medium=email
 
 https://securityscorecard.com/research/detailed-analysis-redline-stealer
+
+https://cloudsek.com/technical-analysis-of-the-redline-stealer/
