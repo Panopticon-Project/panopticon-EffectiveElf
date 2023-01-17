@@ -7,3 +7,5 @@ https://ke-la.com/information-stealers-a-new-landscape/?utm_source=substack&utm_
 https://securityscorecard.com/research/detailed-analysis-redline-stealer
 
 https://cloudsek.com/technical-analysis-of-the-redline-stealer/
+
+https://any.run/cybersecurity-blog/annual-report-2022/
