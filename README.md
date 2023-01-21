@@ -9,3 +9,5 @@ https://securityscorecard.com/research/detailed-analysis-redline-stealer
 https://cloudsek.com/technical-analysis-of-the-redline-stealer/
 
 https://any.run/cybersecurity-blog/annual-report-2022/
+
+https://cyber-anubis.github.io/malware%20analysis/redline/
